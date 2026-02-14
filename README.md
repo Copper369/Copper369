@@ -1,6 +1,5 @@
 # 💫 About Me:
-I am an AI Engineer with strong observational and research skills, driven by curiosity and a deep interest in intelligent systems and emerging technologies. I enjoy exploring deep-rooted sciences and interdisciplinary domains to design innovative, sustainable solutions. My approach combines analytical thinking, creativity, and hands-on project experience to deliver real-world impact.
-
+AI Engineer driven by curiosity, research, and innovation, with strong observational and analytical skills that support effective problem-solving and solution design. Experienced in developing intelligent systems and managing technology-driven projects, I enjoy transforming ideas into practical applications. My interests extend to deep sciences, biotechnology, and emerging technologies, where I aim to create sustainable, impactful solutions that bridge research with real-world implementation.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-karnewar-016460289) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkarnewar369@gmail.com) 
